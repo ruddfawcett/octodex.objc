@@ -1,5 +1,5 @@
 /**
- * @author Rex Finn <rexcfinn@gmail.com>
+ * @author Rudd Fawcett <rexcfinn@gmail.com>
  * @version 1.0
  * @link http://github.com/OctodexAPI/octodex-objc
  * @package octodex-objc
